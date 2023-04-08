@@ -108,6 +108,7 @@
   </issueManagement>
 
   <properties>
+
     <!-- Shared properties with plugins and version numbers across submodules-->
     <sonar.organization>y3py3p3</sonar.organization>
     <sonar.host.url>https://sonarcloud.io</sonar.host.url>
