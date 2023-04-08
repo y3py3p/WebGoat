@@ -1,6 +1,6 @@
 # Multi language support in WebGoat
 
-WebGoat is mainly written in English, but it does support multiple languages.
+WebGoat is mainly written in English, but it does support multiple languages (oh wow).
 
 ## Default language selection
 
