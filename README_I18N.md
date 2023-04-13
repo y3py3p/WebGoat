@@ -1,3 +1,5 @@
+##SONAR_TOKEN 3a31a980b01b744254540504459dbcbf11c66379
+
 # Multi language support in WebGoat
 
 WebGoat is mainly written in English, but it does support multiple languages (oh wow)
